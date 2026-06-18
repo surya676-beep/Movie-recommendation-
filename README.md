@@ -28,6 +28,7 @@ A simple Movie Recommendation System built using Python that recommends movies b
 
 movie-recommendation-system/
 │
+
 ├── movie_recommender.py
 ├── requirements.txt
 ├── movies.csv
@@ -39,5 +40,5 @@ movie-recommendation-system/
 - Implement Matrix Factorization (SVD)
 - Deploy on the cloud
 
-##Author 
+## Author 
 Jonnalagadda Surya Narayana
