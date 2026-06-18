@@ -16,7 +16,7 @@ A simple Movie Recommendation System built using Python that recommends movies b
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/surya676/movie-recommendation-system.git
 
 2. Install dependencies:
    pip install pandas scikit-learn numpy
