@@ -30,8 +30,11 @@ movie-recommendation-system/
 │
 
 ├── movie_recommender.py
-├── requirements.txt
+
+├──requirements.txt
+
 ├── movies.csv
+
 └── README.md
 
 ## Future Improvements
